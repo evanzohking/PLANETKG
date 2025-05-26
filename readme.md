@@ -65,9 +65,9 @@ Click the button below to fork:
 
 ## ᴄʀᴇᴅɪᴛs ᴀɴᴅ ᴅᴇᴠs
 > Sʜᴀᴅᴏᴡ Xᴛᴇᴄʜ Owner 
-- [Black-Tappy](https://github.com/Black-Tappy)
+- [Black-Tappy](https://github.com/evanzohking)
 - Creater and Owner Of XEON-XMD 
-> Sʜᴀᴅᴏᴡ Xᴛᴇᴄʜ Helpers 
+> Planetkg Helpers 
 - [POPKID](https://github.com/Popkiddevs)
 - For helping in bot plugin files.
   
