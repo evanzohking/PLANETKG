@@ -53,8 +53,7 @@ Click the button below to fork:
 
 ## 👻 ᴅᴇᴘʟᴏʏ ꜱʜᴀᴅᴏᴡ xᴛᴇᴄʜ 👻
 
-https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=Purple&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=Purple&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
 
 
 <p align="left">  
