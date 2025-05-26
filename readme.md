@@ -47,13 +47,13 @@ Click the button below to fork:
 
 ## ɢᴇᴛ ᴘᴀɪʀɪɴɢ ᴄᴏᴅᴇ
   <p align="left">  
-<a href='https://popkidsessgenerator.onrender.com/pair' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-000000?style=for-the-badge&logo=codefactor&logoColor=yellow'/></a>  
+<a href='https://kg-xtone-pair.onrender.com' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-000000?style=for-the-badge&logo=codefactor&logoColor=yellow'/></a>  
 </p>  
 
 
 ## 👻 ᴅᴇᴘʟᴏʏ ꜱʜᴀᴅᴏᴡ xᴛᴇᴄʜ 👻
 
-> Deploy on Heroku
+https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=Purple&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔
 
 
 
